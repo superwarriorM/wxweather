@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/cityselect/citylist"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#22292C",
+    "navigationBarTitleText": "明日天气",
+    "navigationBarTextStyle":"white"
+  }
+}
+
+
+

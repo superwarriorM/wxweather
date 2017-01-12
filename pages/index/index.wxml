@@ -1,0 +1,12 @@
+<!--index.wxml-->
+  <view  bindtap="bindViewTap" class="areainfo">
+    <text class="cityname">北京</text>
+    <image class="more-img" src="/imgs/更多.png" background-size="cover"></image>
+  </view>
+
+<view class="container">
+  <view   class="weatherinfo">
+    <image class="weather-img" src="/imgs/暴雨.png" background-size="cover"></image>
+    <text class="weather-name">暴雨</text>
+  </view>
+</view>

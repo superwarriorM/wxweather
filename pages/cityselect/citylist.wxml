@@ -1,0 +1,7 @@
+<view  bindtap="bindViewTap" class="areainfo">
+    
+  </view>
+
+<view class="container">
+
+</view>
